@@ -1,6 +1,9 @@
-### limpar terminal:
+### VScode:
 
 - control + l
+- limp[ar terminal
+- code "nome de arquivo"
+- Cria um arquivo na atual pasta do terminal
 
 ### git
 

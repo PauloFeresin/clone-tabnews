@@ -1,0 +1,5 @@
+{
+  "compilerOptions": {
+    "baseUrl": "." // '.' representa a pasta atual de onde está o arquivo
+  }
+}
