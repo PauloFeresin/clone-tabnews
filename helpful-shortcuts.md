@@ -1,9 +1,11 @@
 ### VScode:
 
 - control + l
-- limp[ar terminal
+  - limp[ar terminal
 - code "nome de arquivo"
-- Cria um arquivo na atual pasta do terminal
+  - Cria um arquivo na atual pasta do terminal
+- cmd + p
+  - fuzzy search
 
 ### git
 
