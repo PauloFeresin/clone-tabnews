@@ -7,6 +7,8 @@
 - git log
 - git status
 - git diff
+- git mv
+- renomeia arquivos (ex: git mv .env .env.development)
 
 ### linux
 
