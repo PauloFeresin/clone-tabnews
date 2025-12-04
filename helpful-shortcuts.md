@@ -14,6 +14,7 @@
 - git diff
 - git mv
 - renomeia arquivos (ex: git mv .env .env.development)
+- git amend
 
 ### linux
 
