@@ -15,6 +15,7 @@
 - git mv
 - renomeia arquivos (ex: git mv .env .env.development)
 - git amend
+- git rm: remove arquivos da branch atual (git rm arquivo.js)
 
 ### linux
 
