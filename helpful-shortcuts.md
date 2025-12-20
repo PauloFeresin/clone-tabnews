@@ -10,7 +10,7 @@
 ### git
 
 - git log
-- git reflog
+- git reflogq
 - git status
 - git diff
 - git mv
